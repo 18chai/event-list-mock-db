@@ -11,7 +11,7 @@
       "description": "Ducimus quas delectus ad maxime totam doloribus reiciendis ex. Tempore dolorem maiores. Similique voluptatibus tempore non ut.",
       "location": "Brno",
       "date": "January 1, 2022",
-      "date-due": "February 03, 2022",
+      "dateDue": "February 03, 2022",
       "time": "12:00",
       "organizer": "Kat Laydee"
     },
@@ -26,7 +26,7 @@
       "description": "Ducimus quas delectus ad maxime totam doloribus reiciendis ex. Tempore dolorem maiores. Similique voluptatibus tempore non ut.",
       "location": "Brno",
       "date": "January 1, 2022",
-      "date-due": "February 03, 2022",
+      "dateDue": "February 03, 2022",
       "time": "12:00",
       "organizer": "Kat Laydee"
     },
@@ -41,7 +41,7 @@
       "description": "Ducimus quas delectus ad maxime totam doloribus reiciendis ex. Tempore dolorem maiores. Similique voluptatibus tempore non ut.",
       "location": "Brno",
       "date": "January 1, 2022",
-      "date-due": "February 03, 2022",
+      "dateDue": "February 03, 2022",
       "time": "12:00",
       "organizer": "Carey Wales"
     },
@@ -56,7 +56,7 @@
       "description": "Ducimus quas delectus ad maxime totam doloribus reiciendis ex. Tempore dolorem maiores. Similique voluptatibus tempore non ut.",
       "location": "Brno",
       "date": "January 1, 2022",
-      "date-due": "February 03, 2022",
+      "dateDue": "February 03, 2022",
       "time": "12:00",
       "organizer": "Kat Laydee"
     }
