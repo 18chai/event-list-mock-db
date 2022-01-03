@@ -2,6 +2,7 @@
   "events": [
     {
       "id": 123,
+      "status": "new",
       "category": "Nové zakázky",
       "title": "Kateřina Valová",
       "material-1": "CoCr Sintrovaný",
@@ -16,6 +17,7 @@
     },
     {
       "id": 456,
+      "status": "production",
       "category": "Probíhá",
       "title": "Karel Jilm",
       "material-1": "CoCr frézovaný",
@@ -30,6 +32,7 @@
     },
     {
       "id": 789,
+      "status": "shipped",
       "category": "Expedováno",
       "title": "Kamil Jarolím",
       "material-1": "ZrO2 Transparentní",
@@ -44,6 +47,7 @@
     },
     {
       "id": 101112,
+      "status": "hold",
       "category": "Čekající práce",
       "title": "Natalia Golder",
       "material-1": "PMMA Premium",
