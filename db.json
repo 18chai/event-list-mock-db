@@ -1,4 +1,4 @@
-{
+ber{
   "events": [
     {
       "id": 123,
@@ -25,8 +25,8 @@
       "color": "A14",
       "description": "Ducimus quas delectus ad maxime totam doloribus reiciendis ex. Tempore dolorem maiores. Similique voluptatibus tempore non ut.",
       "location": "Brno",
-      "date": "January 1, 2022",
-      "date-due": "February 03, 2022",
+      "date": "December 12, 2021",
+      "date-due": "January 21, 2022",
       "time": "12:00",
       "organizer": "Kat Laydee"
     },
@@ -40,8 +40,8 @@
       "color": "A14",
       "description": "Ducimus quas delectus ad maxime totam doloribus reiciendis ex. Tempore dolorem maiores. Similique voluptatibus tempore non ut.",
       "location": "Brno",
-      "date": "January 1, 2022",
-      "date-due": "February 03, 2022",
+      "date": "November 14, 2021",
+      "date-due": "December 04, 2021",
       "time": "12:00",
       "organizer": "Carey Wales"
     },
@@ -55,8 +55,8 @@
       "color": "A14",
       "description": "Ducimus quas delectus ad maxime totam doloribus reiciendis ex. Tempore dolorem maiores. Similique voluptatibus tempore non ut.",
       "location": "Brno",
-      "date": "January 1, 2022",
-      "date-due": "February 03, 2022",
+      "date": "October 12, 2021",
+      "date-due": "March 19, 2022",
       "time": "12:00",
       "organizer": "Kat Laydee"
     }
